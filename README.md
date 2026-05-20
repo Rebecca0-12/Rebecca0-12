@@ -1,4 +1,4 @@
-# Hi, I'm Rebecca Sasere 🌸💜
+# Hi, I'm Rebecca S. 🌸💜
 
 I'm a frontend developer in training who builds clean, functional websites. I combine my knowledge of **HTML, CSS and JavaScript** with modern AI development tools to deliver real results fast.
 
