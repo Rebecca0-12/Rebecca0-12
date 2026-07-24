@@ -4,7 +4,7 @@
 
 ### Frontend Developer • Aspiring Full-Stack Developer
 
-Building modern web experiences with thoughtful design, practical solutions, and attention to detail.
+Creating polished digital experiences through thoughtful design and purposeful development.
 
 <br>
 
@@ -61,7 +61,7 @@ I focus on creating solutions that are clear, reliable, and useful while continu
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rebecca0-12&theme=github-compact&hide_border=true" />
