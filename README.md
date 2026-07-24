@@ -4,7 +4,7 @@
 
 ### Frontend Developer • Aspiring Full-Stack Developer
 
-Creating polished digital experiences through thoughtful design and purposeful development.
+I build modern websites and web applications with a focus on thoughtful design, usability, and clean development.
 
 <br>
 
@@ -22,25 +22,17 @@ Creating polished digital experiences through thoughtful design and purposeful d
 
 ## About
 
-I'm a certified Frontend Developer who builds modern websites and web applications with a focus on clean design, usability, and performance. My goal is simple: create products that feel polished, solve real problems, and leave a lasting impression.
+I'm a certified Frontend Developer who enjoys turning ideas into polished digital experiences. I build websites and web applications that combine clean design, usability, and functionality.
 
-I'm currently expanding into full-stack development, building the skills needed to create complete applications—from the interface people see to the systems working behind the scenes. Every project is an opportunity to improve my craft and raise the standard of what I build.
+I'm currently expanding into full-stack development, learning how the different parts of modern applications work together and building projects that continue to challenge and improve my skills.
 
 ---
 
 ## What I Build
 
-My work is centered around creating digital experiences that are practical, intuitive, and thoughtfully designed. Whether it's a business website, a landing page, or an interactive web application, I care about the details that make software feel reliable, responsive, and enjoyable to use.
+I create responsive websites, landing pages, and interactive web experiences with attention to both design and implementation.
 
-I believe good design earns attention, but good functionality earns trust. The best products combine both.
-
----
-
-## My Approach
-
-I believe great software is built with purpose. Every decision, from the way an interface is designed to the way the code is structured, contributes to the overall experience.
-
-I focus on creating solutions that are clear, reliable, and useful while continuously improving my skills and the way I build.
+I enjoy taking ideas from concept to completion, building interfaces that feel intuitive while writing code that keeps the experience reliable and maintainable.
 
 ---
 
@@ -56,7 +48,7 @@ I focus on creating solutions that are clear, reliable, and useful while continu
 
 - Expanding into full-stack development
 - Building real-world projects
-- Improving user experience, performance, and development workflow
+- Improving my frontend skills and development workflow
 - Open to frontend roles, internships, collaborations, and freelance opportunities
 
 ---
@@ -74,4 +66,3 @@ I focus on creating solutions that are clear, reliable, and useful while continu
 Building, learning, and improving with every project.
 
 </div>
-```
