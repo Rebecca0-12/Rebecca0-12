@@ -64,9 +64,7 @@ I focus on creating solutions that are clear, reliable, and useful while continu
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rebecca0-12&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecca0-12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rebecca0-12&theme=github-compact&hide_border=true" />
 </p>
 
 ---
