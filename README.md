@@ -4,16 +4,16 @@
 
 ### Frontend Developer • Aspiring Full-Stack Developer
 
-Building digital experiences where thoughtful design meets purposeful development.
+Building modern web experiences with thoughtful design, practical solutions, and attention to detail.
 
 <br>
 
 <a href="https://www.linkedin.com/in/sasere-rebecca-57625b389">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:rebeccasasere0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -22,9 +22,9 @@ Building digital experiences where thoughtful design meets purposeful developmen
 
 ## About
 
-I build modern websites and web applications with a focus on clean design, usability, and performance. My goal is simple: create products that feel polished, solve real problems, and leave a lasting impression.
+I'm a certified Frontend Developer who builds modern websites and web applications with a focus on clean design, usability, and performance. My goal is simple: create products that feel polished, solve real problems, and leave a lasting impression.
 
-I'm currently expanding into full-stack development, learning what it takes to build complete applications—from the interface people see to the systems working behind the scenes. Every project is an opportunity to improve my craft, explore new ideas, and raise the standard of what I build.
+I'm currently expanding into full-stack development, building the skills needed to create complete applications—from the interface people see to the systems working behind the scenes. Every project is an opportunity to improve my craft and raise the standard of what I build.
 
 ---
 
@@ -36,44 +36,44 @@ I believe good design earns attention, but good functionality earns trust. The b
 
 ---
 
-## My Philosophy
+## My Approach
 
-Technology should make things simpler, not more complicated.
+I believe great software is built with purpose. Every decision, from the way an interface is designed to the way the code is structured, contributes to the overall experience.
 
-I value clean code, continuous learning, and building with intention. Rather than chasing every new trend, I prefer understanding the fundamentals, refining my workflow, and creating products that are built to last.
-
-As my journey continues into full-stack development, my goal is to build software that's not only visually refined, but dependable, scalable, and genuinely useful.
+I focus on creating solutions that are clear, reliable, and useful while continuously improving my skills and the way I build.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack"/>
 </p>
 
 ---
 
 ## Current Focus
 
-- Building modern web experiences
 - Expanding into full-stack development
-- Exploring better design and development workflows
-- Open to frontend opportunities, collaborations, internships, and freelance work
+- Building real-world projects
+- Improving user experience, performance, and development workflow
+- Open to frontend roles, internships, collaborations, and freelance opportunities
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rebecca0-12&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebecca0-12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 ---
 
 <div align="center">
 
-*"The best products aren't just built—they're thoughtfully crafted."*
+Building, learning, and improving with every project.
 
 </div>
+```
