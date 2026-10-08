@@ -12,7 +12,7 @@ I build modern websites and web applications with a focus on thoughtful design, 
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6E56CF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:rebeccasasere0@gmail.com">
+<a href="mailto:sasereokikiola269@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-6E56CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
